@@ -7,9 +7,9 @@
 
 ### **Hasil Run Program**  
 #### **1**  
-![Frontend Output](relative/path/to/Screenshot(14).png)
+![Frontend Output](screenshot/Screenshot(14).png)
 
 #### **2**  
-![Backend Output](relative/path/to/Screenshot(15).png)
+![Backend Output](screenshot/Screenshot(15).png)
 
 ---
